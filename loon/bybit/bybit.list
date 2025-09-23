@@ -1,0 +1,32 @@
+# NAME: Bybit
+# AUTHOR: K23Flux
+# REPO: https://github.com/K23Flux/rules
+# UPDATED: 2025-09-23 00:00:00
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 12
+# DOMAIN-SUFFIX: 9
+# IP-CIDR: 1
+# TOTAL: 22
+# > Bybit
+DOMAIN-KEYWORD,bybit
+DOMAIN-KEYWORD,bytick
+DOMAIN-KEYWORD,bycsi
+DOMAIN-KEYWORD,byapps
+DOMAIN-KEYWORD,byabcde
+DOMAIN-KEYWORD,bybdc6
+DOMAIN-KEYWORD,byd3c3
+DOMAIN-KEYWORD,byhkbit
+DOMAIN-KEYWORD,byabcde
+DOMAIN-KEYWORD,bybitgeorgia
+DOMAIN-KEYWORD,datasink
+DOMAIN-KEYWORD,appsflyer
+DOMAIN-SUFFIX,bybit.eu
+DOMAIN-SUFFIX,monitor-frontend-collector.a.bybit-aws.com
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,byffbb.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,bitverse.zone
+DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,benzinga.com
+IP-CIDR,3.171.61.50/32,no-resolve
