@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "browser-intake-datadoghq.com",
+        "static.cloudflareinsights.com",
+        "vpn.apple.com"
+      ],
+      "domain_suffix": [
+        "ai.com",
+        "algolia.net",
+        "api.statsig.com",
+        "auth0.com",
+        "chatgpt.com",
+        "identrust.com",
+        "intercom.io",
+        "intercomcdn.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "openai.com",
+        "openaiapi-site.azureedge.net",
+        "sentry.io",
+        "stripe.com"
+      ],
+      "domain_keyword": [
+        "openai",
+        "chatgpt"
+      ]
+    }
+  ]
+}
