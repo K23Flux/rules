@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "alkalimeti-pa.clients6.google.com",
+        "assistant-pa.clients6.google.com",
+        "generativelanguage.googleapis.com",
+        "proactivebackend-pa.googleapis.com"
+      ],
+      "domain_suffix": [
+        "bard.google.com",
+        "deepmind.com",
+        "deepmind.google",
+        "gemini.google.com",
+        "generativeai.google",
+        "proactivebackend-pa.googleapis.com"
+      ],
+      "domain_keyword": [
+        "generativelanguage"
+      ]
+    }
+  ]
+}
